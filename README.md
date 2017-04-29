@@ -10,8 +10,8 @@
 
 **RocketLoans (Quicken Loans), Detroit, MI**
 
-* Currently building out a highly scalable personal loan application hosted on AWS.
-* The app is capable of automated underwriting and employs the micro-services pattern.
+* Currently building out a highly scalable personal loan application hosted on AWS
+* The app is capable of automated underwriting and employs the micro-services pattern
 
 > AWS, DynamoDB, Node.js, Angular.js, ES6, Webpack, Babel
 
@@ -22,7 +22,7 @@
 **JustSift (Quicken Loans), Detroit, MI**
 
 * Built out a highly scalable SaaS-based directory application called Sift
-* Sift consists of a mobile-ready Angular JS front-end which is served via CloudFront CDN (AWS).
+* Sift consists of a mobile-ready Angular JS front-end which is served via CloudFront CDN (AWS)
 * The API is OAuth2 authenticated, featuring a full-text search implemented in Elasticsearch, built on Node.js/Express and is multi-tenant ready at its core
 * The Angular JS app is built using cutting edge tools like Browserify, Gulp and Babel
 * The entire app (front and back end) is written modularly using ES6
@@ -37,7 +37,7 @@
 
 **Rock Ventures (Quicken Loans), Detroit, MI**
 
-* Lead agile development efforts in a stealth start-up funded by Dan Gilbert
+* Lead agile development efforts in a stealth start-up funded by [Dan Gilbert](https://tinyurl.com/ke9cyzl)
 * The first phase of the project was to convert an ASP.NET MVC 5 app to an Angular JS front-end with an ASP.NET WEB API 2 powered API (SignalR 2, Entity Framework 6, SQL Server 2012)
 * We subsequently performed a complete rewrite in Node.js/Express and leveraged the mighty relational power of a graph database (Neo4j)
 * Our AngularJS and Socket.io front-end was served via CloudFront CDN
@@ -66,6 +66,8 @@
 * Created SEO and SEM campaigns for customers and tracked their effectiveness with Google Analytics
 * Provided database maintenance, repair and redundancy services to clients
 
+##### Client Highlights:
+
 **Eleven Winds, Belle River, ON (18 months)**
 
 * Worked with a team of developers to deliver projects using .NET (MVC 4 and Webforms)
@@ -92,6 +94,7 @@
 *12/2008 - 4/2010*
 
 **APPLICATION ENGINEER - SYSTEMS ENGINEERING CONSULTING**
+
 **Sandalwood Enterprises, Farmington Hills, MI**
 
 * Ford Motor Company: Rapidly delivered information systems projects to the company
@@ -102,6 +105,7 @@
 *2008*
 
 **PROJECT MANAGER - FIRE PROTECTION ENGINEERING CONSULTING**
+
 **Kieffer and Associates Incorporated, Windsor, Ontario**
 
 * Performed Ontario and NFPA fire code interpretation for the design of fire protection systems
@@ -110,6 +114,7 @@
 *2007 - 2008*
 
 **PROCESS ENGINEER - FROZEN FOODS**
+
 **Bonduelle, Tecumseh, Ontario**
 
 * Created designs for capital project implementations and processing lines  
@@ -124,7 +129,7 @@
 
 **Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
 
-**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
+**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
 
 **Testing**: Mocha, Jasmine, Karma, Sinon, Chai, Phantom.js, Protractor
 
