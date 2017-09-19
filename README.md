@@ -13,7 +13,7 @@
 * Currently building out a highly scalable personal loan application hosted on AWS
 * The app is capable of automated underwriting and employs the micro-services pattern
 
-> AWS, DynamoDB, Node.js, Angular.js, ES6, Webpack, Babel
+> AWS, DynamoDB, Node.js, Docker, Angular.js, ES6, Webpack, Babel
 
 *10/2015 - 08/2016*
 
