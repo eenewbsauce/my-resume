@@ -33,7 +33,7 @@
 
 > AWS, Elasticsearch, Node.js, Angular.js, Stormpath/OAuth2, ES6, Browserify, Babel
 
-<div style="page-break-after: always;"></div>
+<br>
 
 *9/2014 – 10/2015*
 
