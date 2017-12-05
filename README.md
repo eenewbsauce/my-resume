@@ -12,8 +12,9 @@
 
 **RocketLoans (Quicken Loans), Detroit, MI**
 
-* Currently building out a highly scalable personal loan application hosted on AWS
+* Currently working as a full stack engineer on a highly scalable personal loans application hosted on AWS
 * The app is capable of automated underwriting and employs the micro-services pattern
+* I am responsible for many domains including UI architecture, API development, and DevOps
 
 > AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
 
