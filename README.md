@@ -1,6 +1,6 @@
 # Ryan Tracey - Full Stack JavaScript Software Engineer
 
-**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com
+**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
 
 > I am a pragmatic full stack JavaScript engineer with a focus on application scaling. I embrace RESTful design and functional programming paradigms.
 
