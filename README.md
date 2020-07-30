@@ -6,15 +6,29 @@
 
 ## Professional History
 
-_08/2016 - Present_
+_05/2019 - Present_
+
+**SOFTWARE ENGINEER - MARKETING**
+
+**Red Hat (IBM), Remote**
+
+- Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
+- The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
+- The app entensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
+- I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
+- I am responsible for many domains including UI architecture, API development, and DevOps
+
+> Open Shift, MongoDB, Node.js, React
+
+_08/2016 - 05/2019_
 
 **SOFTWARE ENGINEER - PERSONAL FINANCE**
 
 **RocketLoans (Quicken Loans), Detroit, MI**
 
-- Currently working as a full stack engineer on a highly scalable personal loans application hosted on AWS
+- Built out a highly scalable personal loan application hosted on AWS as a full-stack engineer
 - The app is capable of automated underwriting and employs the micro-services pattern
-- I am responsible for many domains including UI architecture, API development, and DevOps
+- I was responsible for many domains including UI architecture, API development, and DevOps
 
 > AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
 
