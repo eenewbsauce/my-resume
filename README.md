@@ -12,9 +12,11 @@ _05/2019 - Present_
 
 **Red Hat (IBM), Remote**
 
+With millions of individual marketing engagements across all Red Hat web properties, there was a need to aggregate this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
+
 - Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
-- The app entensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
+- The app extensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
 - I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
 - I am responsible for many domains including UI architecture, API development, and DevOps
 
@@ -145,7 +147,7 @@ _2007 - 2008_
 
 **Databases**: SQL Server 2008/2013, Neo4j, MySQL, SQLite, Mongo, Elasticsearch
 
-**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
+**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, Yaml, Markdown
 
 **JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
 
@@ -180,3 +182,7 @@ _Fall 2003 - Summer 2007_
 **University of Windsor, Windsor, ON**
 
 Concentration: Electrical and Computer Engineering
+
+## Hobbies
+
+Online gaming, kayaking, fishing
