@@ -12,7 +12,7 @@ _05/2019 - Present_
 
 **Red Hat (IBM), Remote**
 
-With millions of individual marketing engagements across all Red Hat web properties, there was a need to aggregate this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
+With millions of individual marketing engagements captured online, at in-person events, and through partners, there was a need to aggregate and surface this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
 
 - Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
@@ -20,7 +20,7 @@ With millions of individual marketing engagements across all Red Hat web propert
 - I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
 - I am responsible for many domains including UI architecture, API development, and DevOps
 
-> Open Shift, MongoDB, Node.js, React
+> OpenShift, MongoDB, Node.js, React
 
 _08/2016 - 05/2019_
 
@@ -81,6 +81,7 @@ _9/2013 - 9/2014_
 _5/2010 - 12/2014_
 
 **WEB DEVELOPER/FOUNDER - SOFTWARE CONSULTING**
+
 **NextGen Computer Innovation/Gounce, Inc., Windsor, ON**
 
 - Rapidly delivered custom websites and applications to clients
@@ -122,25 +123,6 @@ _12/2008 - 4/2010_
 - Remotely accessed and managed multiple server applications and databases
 - Utilized VB to rapidly deliver and validate deliverables
 
-_2008_
-
-**PROJECT MANAGER - FIRE PROTECTION ENGINEERING CONSULTING**
-
-**Kieffer and Associates Incorporated, Windsor, Ontario**
-
-- Performed Ontario and NFPA fire code interpretation for the design of fire protection systems
-- Managed the procurement process for new contracts by distributing RFQ packages
-
-_2007 - 2008_
-
-**PROCESS ENGINEER - FROZEN FOODS**
-
-**Bonduelle, Tecumseh, Ontario**
-
-- Created designs for capital project implementations and processing lines
-- Configured and maintained a drawing archive intranet application for easy access to plant drawings
-- Orchestrated the writing of standard operating procedures (SOPs) for the plant
-
 ## Technical Skills
 
 **Frameworks**: .NET 3.5 - 4.5, ASP.NET MVC 3-5, ADO.NET, EF, CSLA
@@ -157,9 +139,9 @@ _2007 - 2008_
 
 **Servers**: Windows Server 2008/2012, LAMP, MEAN, NGINX, Cpanel, Plesk
 
-**Cloud:AWS**: CloudFront, Code Deploy, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
+**Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS, VPC
 
-**Environments**: Microsoft Visual Studio 2005-2013, Atom, Sublime, VS Code
+**Containerization**: Docker/Podman, OpenShift (Kubernetes)
 
 **Mobile**: Google Material, Ionic Framework, jQuery Mobile, Sencha Touch, x Bootstrap 2+, Foundation
 
