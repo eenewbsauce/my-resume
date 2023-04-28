@@ -2,23 +2,25 @@
 
 **tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
 
-> I am a pragmatic full stack JavaScript engineer with a focus on application scaling. I embrace RESTful design and functional programming paradigms.
+> I am a pragmatic full stack JavaScript engineer with a focus on application scaling and containerization.
 
 ## Professional History
 
 _05/2019 - Present_
 
-**SOFTWARE ENGINEER - MARKETING**
+**SENIOR APPLICATION DEVELOPER - MARKETING**
 
 **Red Hat (IBM), Remote**
 
-- Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
+With millions of discrete data points, capturing engagement by customers (accounts) and their employees, the need to summarize and
+
+- Currently working as a full stack developer on an account-based (marketing data aggregated by customer) marketing platform deployed to OpenShift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
 - The app entensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
 - I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
 - I am responsible for many domains including UI architecture, API development, and DevOps
 
-> Open Shift, MongoDB, Node.js, React
+> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, GraphQL, React, PatternFly, GitLab CI
 
 _08/2016 - 05/2019_
 
@@ -26,7 +28,7 @@ _08/2016 - 05/2019_
 
 **RocketLoans (Quicken Loans), Detroit, MI**
 
-- Built out a highly scalable personal loan application hosted on AWS as a full-stack engineer
+- Built out a highly scalable personal loan application hosted on AWS as a full stack engineer
 - The app is capable of automated underwriting and employs the micro-services pattern
 - I was responsible for many domains including UI architecture, API development, and DevOps
 
@@ -120,56 +122,29 @@ _12/2008 - 4/2010_
 - Remotely accessed and managed multiple server applications and databases
 - Utilized VB to rapidly deliver and validate deliverables
 
-_2008_
-
-**PROJECT MANAGER - FIRE PROTECTION ENGINEERING CONSULTING**
-
-**Kieffer and Associates Incorporated, Windsor, Ontario**
-
-- Performed Ontario and NFPA fire code interpretation for the design of fire protection systems
-- Managed the procurement process for new contracts by distributing RFQ packages
-
-_2007 - 2008_
-
-**PROCESS ENGINEER - FROZEN FOODS**
-
-**Bonduelle, Tecumseh, Ontario**
-
-- Created designs for capital project implementations and processing lines
-- Configured and maintained a drawing archive intranet application for easy access to plant drawings
-- Orchestrated the writing of standard operating procedures (SOPs) for the plant
-
 ## Technical Skills
 
-**Frameworks**: .NET 3.5 - 4.5, ASP.NET MVC 3-5, ADO.NET, EF, CSLA
+**Stacks**: MERN, MEAN
 
-**Databases**: SQL Server 2008/2013, Neo4j, MySQL, SQLite, Mongo, Elasticsearch
+**Databases**: SQL Server 2008/2013, DynamoDB, MySQL, SQLite, MongoDB, Neo4j, Elasticsearch
 
-**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
+**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON
 
-**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
+**JavaScript**: Typescript 4+, ECMAscript 4-13, Node.js, Express, Next.js, Gatsby.js, Socket.io, Passport.js, Vogels, Mongoose, jQuery, Angular 1-4, React/Redux, Ramda/Lodash
 
-**Testing**: Mocha, Jasmine, Karma, Sinon, Chai, Phantom.js, Protractor
+**Testing**: Jest, Mocha, Sinon, Chai, Cypress
 
-**Build Tools**: Gulp, Grunt, NPM, Yeoman, Jenkins, Travis, Babel, Browserify, Webpack
+**Code Quality/DX**: ESLint, Prettier, GitHub Copilot, Plop.js
 
-**Servers**: Windows Server 2008/2012, LAMP, MEAN, NGINX, Cpanel, Plesk
+**Build Tools**: TSC, Webpack, Babel, Gulp, Grunt, NPM, Yarn, GitLab, Jenkins
 
-**Cloud:AWS**: CloudFront, Code Deploy, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
+**Servers**: Windows Server 2008/2012, LAMP, NGINX, Httpd
 
-**Environments**: Microsoft Visual Studio 2005-2013, Atom, Sublime, VS Code
+**Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
 
-**Mobile**: Google Material, Ionic Framework, jQuery Mobile, Sencha Touch, x Bootstrap 2+, Foundation
+**Source Control**: GitHub/GitLab, Git, Mercurial, SVN
 
-**Creative**: Adobe Photoshop and Illustrator (CS5/CS6), AutoCad R14-2014
-
-**Source Control**: Git/Github, TFS, Mercurial, SVN
-
-**Package Managers**: Npm, Bower, Nuget, Brew, Pip, Aptitude, Yum
-
-**CMS**: Joomla!, Wordpress, Magento, Orchard
-
-**Other**: Linq, AJAX, SignalR, Stripe, T4, SEO, SEM, FTP, SSH, DNS
+**Package Managers**: NPM, Brew, Pip, Aptitude, Yum
 
 ## Education
 
@@ -180,3 +155,9 @@ _Fall 2003 - Summer 2007_
 **University of Windsor, Windsor, ON**
 
 Concentration: Electrical and Computer Engineering
+
+## Certifications
+
+**AWS**
+
+Certified Solutions Architect (_12/2019 - 12/2022_)
