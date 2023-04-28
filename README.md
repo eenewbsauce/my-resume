@@ -2,7 +2,7 @@
 
 **tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
 
-> I am a pragmatic full stack JavaScript engineer with a focus on application scaling and containerization.
+I am a pragmatic full stack JavaScript engineer with over 12 years of experience. I focus on writing clean, testable, containerized code that scales.
 
 ## Professional History
 
@@ -12,11 +12,11 @@ _05/2019 - Present_
 
 **Red Hat (IBM), Remote**
 
-With millions of discrete data points, capturing engagement by customers (accounts) and their employees, the need to summarize and
+With millions of individual marketing engagements captured online, at in-person events, and through partners, there was a need to aggregate and surface this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
 
-- Currently working as a full stack developer on an account-based (marketing data aggregated by customer) marketing platform deployed to OpenShift
+- Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
-- The app entensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
+- The app extensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
 - I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
 - I am responsible for many domains including UI architecture, API development, and DevOps
 
@@ -81,6 +81,7 @@ _9/2013 - 9/2014_
 _5/2010 - 12/2014_
 
 **WEB DEVELOPER/FOUNDER - SOFTWARE CONSULTING**
+
 **NextGen Computer Innovation/Gounce, Inc., Windsor, ON**
 
 - Rapidly delivered custom websites and applications to clients
@@ -126,6 +127,12 @@ _12/2008 - 4/2010_
 
 **Stacks**: MERN, MEAN
 
+**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch, SQL Server 2008/2013
+
+**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON, Yaml, Markdown
+
+**JavaScript**: Typescript 4+, ECMAscript 4-13, Node.js, Express, Next.js, Gatsby.js, Socket.io, Passport.js, Vogels, Mongoose, jQuery, Angular 1-4, React/Redux, Ramda/Lodash
+
 **Databases**: SQL Server 2008/2013, DynamoDB, MySQL, SQLite, MongoDB, Neo4j, Elasticsearch
 
 **Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON
@@ -136,9 +143,13 @@ _12/2008 - 4/2010_
 
 **Code Quality/DX**: ESLint, Prettier, GitHub Copilot, Plop.js
 
-**Build Tools**: TSC, Webpack, Babel, Gulp, Grunt, NPM, Yarn, GitLab, Jenkins
+**Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS, VPC
 
-**Servers**: Windows Server 2008/2012, LAMP, NGINX, Httpd
+**Containerization**: Docker/Podman, OpenShift (Kubernetes)
+
+**Build Tools**: TSC, Webpack, Babel, Gulp, Grunt, NPM, Yarn, GitLab CI, Jenkins
+
+**Servers**: NGINX, Httpd
 
 **Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
 
@@ -161,3 +172,7 @@ Concentration: Electrical and Computer Engineering
 **AWS**
 
 Certified Solutions Architect (_12/2019 - 12/2022_)
+
+## Hobbies
+
+Online gaming, kayaking, fishing
