@@ -6,27 +6,23 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of experience
 
 ## Professional History
 
-_05/2019 - Present_
-
-**SENIOR APPLICATION DEVELOPER - MARKETING**
+**SENIOR APPLICATION DEVELOPER - MARKETING** (_05/2019 - Present_)
 
 **Red Hat (IBM), Remote**
 
-With millions of individual marketing engagements captured online, at in-person events, and through partners, there was a need to aggregate and surface this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
+- With millions of discrete marketing engagements being captured, there was a need to simplify this data and display it from an Account-Based Marketing point of view.
+- On a weekly basis, thousands of accounts are summarized, using small engagement signals to surface highly actionable ones.
+- The AccountIQ platform has greatly improved marketing and sales at Red Hat.
 
-- Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
-- The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
-- The app extensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
-- I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
-- I am responsible for many domains including UI architecture, API development, and DevOps
+> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, GraphQL, React, Redux, PatternFly, GitLab
 
-> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, GraphQL, React, PatternFly, GitLab CI
-
-_08/2016 - 05/2019_
-
-**SOFTWARE ENGINEER - PERSONAL FINANCE**
+**SOFTWARE ENGINEER - PERSONAL FINANCE** (_08/2016 - 05/2019_)
 
 **RocketLoans (Quicken Loans), Detroit, MI**
+
+-
+
+---
 
 - Built out a highly scalable personal loan application hosted on AWS as a full stack engineer
 - The app is capable of automated underwriting and employs the micro-services pattern
@@ -34,9 +30,7 @@ _08/2016 - 05/2019_
 
 > AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
 
-_10/2015 - 08/2016_
-
-**SOFTWARE ENGINEER - HUMAN RESOURCES**
+**SOFTWARE ENGINEER - HUMAN RESOURCES** (_10/2015 - 08/2016_)
 
 **JustSift (Quicken Loans), Detroit, MI**
 
@@ -50,11 +44,7 @@ _10/2015 - 08/2016_
 
 > AWS, Elasticsearch, Node.js, Angular.js, Stormpath/OAuth2, ES6, Browserify, Babel
 
-<br/>
-
-_9/2014 – 10/2015_
-
-**LEAD SOFTWARE ENGINEER – SOCIAL NETWORKING**
+**LEAD SOFTWARE ENGINEER – SOCIAL NETWORKING** (_9/2014 – 10/2015_)
 
 **Rock Ventures (Quicken Loans), Detroit, MI**
 
@@ -66,9 +56,7 @@ _9/2014 – 10/2015_
 
 > AWS, AngularJS, Node.js, Socket.io, Neo4j, Redis, SASS/Compass
 
-_9/2013 - 9/2014_
-
-**SOFTWARE ENGINEER – TITLE INSURANCE**
+**SOFTWARE ENGINEER – TITLE INSURANCE** (_9/2013 - 9/2014_)
 
 **Title Source (Quicken Loans), Detroit, MI**
 
@@ -76,86 +64,23 @@ _9/2013 - 9/2014_
 - Worked as a full stack .NET developer on an Agile team with four developers and three business analysts
 - Implemented dynamic forms, advanced security filters and Angular.js single page applications
 
-> ASP.NET MVC 4, SQL Server 2012, jQuery, AngularJS, HTML, CSS3
-
-_5/2010 - 12/2014_
-
-**WEB DEVELOPER/FOUNDER - SOFTWARE CONSULTING**
-
-**NextGen Computer Innovation/Gounce, Inc., Windsor, ON**
-
-- Rapidly delivered custom websites and applications to clients
-- Created SEO and SEM campaigns for customers and tracked their effectiveness with Google Analytics
-- Provided database maintenance, repair and redundancy services to clients
-
-##### Client Highlights:
-
-**Eleven Winds, Belle River, ON (18 months)**
-
-- Worked with a team of developers to deliver projects using .NET (MVC 4 and Webforms)
-- Managed and developed projects using the Agile methodology
-- Created and maintained the company’s custom CMS
-
-**Pourtrait.com, Windsor, Ontario (4 months)**
-
-- Project was built using ASP.NET MVC 4, SQL Server 2012 and EF
-- Worked as a full-stack developer to deliver a food and beverage discovery application
-- Duties included creation of several custom jQuery plugins, a custom routing module, data model and custom membership provider
-
-**zZipline.com, St. Louis, Missouri (3 months)**
-
-- Project was built using CakePHP, MySQL and Knockout.js
-- Worked with a team of developers and UX designers to create one of the first social payment platforms
-- Deployed a variety of custom user experience enhancements to the application (AJAX search, autocomplete, popovers and tooltips
-
-**Team My Mobile, Windsor, ON (2 months)**
-
-- Constructed numerous websites to facilitate the company’s web presence and sales
-- Managed SEO and website performance to drive new sales (Joomla! CMS and Magento eCommerce)
-
-_12/2008 - 4/2010_
-
-**APPLICATION ENGINEER - SYSTEMS ENGINEERING CONSULTING**
-
-**Sandalwood Enterprises, Farmington Hills, MI**
-
-- Ford Motor Company: Rapidly delivered information systems projects to the company
-- Remotely accessed and managed multiple server applications and databases
-- Utilized VB to rapidly deliver and validate deliverables
+> ASP.NET MVC 4, SQL Server 2012, jQuery, AngularJS, HTML5, CSS3
 
 ## Technical Skills
-
-**Stacks**: MERN, MEAN
-
-**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch, SQL Server 2008/2013
 
 **Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON, Yaml, Markdown
 
 **JavaScript**: Typescript 4+, ECMAscript 4-13, Node.js, Express, Next.js, Gatsby.js, Socket.io, Passport.js, Vogels, Mongoose, jQuery, Angular 1-4, React/Redux, Ramda/Lodash
 
-**Databases**: SQL Server 2008/2013, DynamoDB, MySQL, SQLite, MongoDB, Neo4j, Elasticsearch
-
-**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON
-
-**JavaScript**: Typescript 4+, ECMAscript 4-13, Node.js, Express, Next.js, Gatsby.js, Socket.io, Passport.js, Vogels, Mongoose, jQuery, Angular 1-4, React/Redux, Ramda/Lodash
+**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch, SQL Server 2008/2013
 
 **Testing**: Jest, Mocha, Sinon, Chai, Cypress
 
-**Code Quality/DX**: ESLint, Prettier, GitHub Copilot, Plop.js
+**Code Quality/DX**: ESLint, Prettier, Storybook, GitHub Copilot, Plop.js
 
 **Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS, VPC
 
-**Containerization**: Docker/Podman, OpenShift (Kubernetes)
-
-**Build Tools**: TSC, Webpack, Babel, Gulp, Grunt, NPM, Yarn, GitLab CI, Jenkins
-
-**Servers**: NGINX, Httpd
-
-**Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
-
-**Source Control**: GitHub/GitLab, Git, Mercurial, SVN
-
-**Package Managers**: NPM, Brew, Pip, Aptitude, Yum
+**Build Tools**: TSC, Webpack, Babel, Gulp, Grunt, NPM, GitLab CI, Jenkins, Docker/Podman
 
 ## Education
 
@@ -169,9 +94,7 @@ Concentration: Electrical and Computer Engineering
 
 ## Certifications
 
-**AWS**
-
-Certified Solutions Architect (_12/2019 - 12/2022_)
+**AWS** - Certified Solutions Architect (_12/2019 - 12/2022_)
 
 ## Hobbies
 
