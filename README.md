@@ -2,7 +2,7 @@
 
 **tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
 
-> I am a pragmatic full stack JavaScript engineer with a focus on application scaling. I embrace RESTful design and functional programming paradigms.
+> I am a pragmatic full stack JavaScript engineer with over 12 years of experience.
 
 ## Professional History
 
@@ -13,6 +13,8 @@ _05/2019 - Present_
 **Red Hat (IBM), Remote**
 
 With millions of individual marketing engagements captured online, at in-person events, and through partners, there was a need to aggregate and surface this data by customer account. The resulting dashboard greatly improved marketers ability to target existing and potential accounts.
+
+-
 
 - Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
