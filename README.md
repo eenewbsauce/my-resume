@@ -27,27 +27,24 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of industry e
 
 **SOFTWARE ENGINEER - PERSONAL FINANCE** (_08/2016 - 04/2019_)
 
-**RocketLoans (Rocket Mortgage), Detroit, MI**
+**Rocket Loans (Rocket Mortgage), Detroit, MI**
 
-- Lending is highly regulated industry and must be handled with utmost care. Ensuring customers meet all eligibility criteria before a loan is closed is a difficult problem to solve.
+- Lending is highly regulated industry and must be handled with utmost care. Ensuring customers meet all eligibility criteria before a loan is closed is a challenging problem to solve.
 - A checklist mechanism, to synchronize the outstanding tasks between the customer and the operations team was created. I played a major role in delivering this project.
 - Over time, this solution led to simplified workflows for the operations team and improved expectations for loan clients.
 
 > AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
 
-<br>
-
 **SOFTWARE ENGINEER - HUMAN RESOURCES** (_10/2015 - 08/2016_)
 
 **JustSift (Rocket Mortgage), Detroit, MI**
 
-- Built out a highly scalable SaaS-based directory application called Sift
+- Built out a highly scalable SaaS-based employee directory application called Sift
 - Sift consists of a mobile-ready Angular JS front-end which is served via CloudFront CDN (AWS)
 - The API is OAuth2 authenticated, featuring a full-text search implemented in Elasticsearch, built on Node.js/Express and is multi-tenant ready at its core
 - The Angular JS app is built using cutting edge tools like Browserify, Gulp and Babel
 - The entire app (front and back end) is written modularly using ES6
 - Modularity was achieved using NPM modules and sophisticated custom tools that I wrote to implement versioning across the 8 Github repos that compose Sift
-- The Sift architecture is something that I am extremely proud of building and I learned a lot from it
 
 > AWS, Elasticsearch, Node.js, Angular.js, Stormpath/OAuth2, ES6, Browserify, Babel
 
@@ -73,12 +70,12 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of industry e
 
 **Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS, VPC
 
-**Build Tools**: TSC, Webpack, Babel, NPM, Lerna/NXGulp, Grunt, GitLab CI, Jenkins, Docker/Podman
+**Build Tools**: TSC, Webpack, Babel, NPM, Lerna/NX, Gulp, GitLab CI, Jenkins, Docker/Podman
 
 | Education                                          | Certifications                     |
 | -------------------------------------------------- | ---------------------------------- |
 | _Fall 2003 - Summer 2007_                          | _12/2019 - 12/2022_                |
-| HONOURS BACHELOR OF APPLIED SCIENCE                | AWS: Certified Solutions Architect |
+| Honours Bachelor of Applied Science                | AWS: Certified Solutions Architect |
 | University of Windsor, Windsor, ON                 |
 | Concentration: Electrical and Computer Engineering |
 
