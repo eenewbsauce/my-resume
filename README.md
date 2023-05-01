@@ -57,7 +57,7 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of industry e
 
 **SOFTWARE ENGINEER – TITLE INSURANCE** (_9/2013 - 9/2014_)
 
-**Title Source (Rocket Mortgage), Detroit, MI**
+**Amrock (Rocket Mortgage), Detroit, MI**
 
 ## Technical Skills
 
