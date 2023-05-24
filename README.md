@@ -2,7 +2,7 @@
 
 **tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | **web:** github.com/eenewbsauce | linkedin.com/in/ryan-m-tracey
 
-Pragmatic information technology (IT) professional with a wide range of industry experience. Focus on writing clean, testable, containerized code that scales.
+> Pragmatic information technology (IT) professional with a wide range of industry experience. Focus on writing clean, testable, containerized code that scales.
 
 ## Technical Skills
 
