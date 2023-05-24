@@ -1,40 +1,24 @@
 # Ryan Tracey - Full Stack JavaScript Software Engineer
 
-**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce | linkedin.com/in/ryan-m-tracey
+**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | **web:** github.com/eenewbsauce | linkedin.com/in/ryan-m-tracey
 
-> I am a pragmatic full stack JavaScript engineer with a focus on application scaling. I embrace RESTful design and functional programming paradigms.
+> Pragmatic information technology (IT) professional with a wide range of industry experience. Focus on writing clean, testable, containerized code that scales.
 
 ## Technical Skills
 
-**Frameworks**: .NET 3.5 - 4.5, ASP.NET MVC 3-5, ADO.NET, EF, CSLA
+**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON, Yaml, Markdown, C#
 
-**Databases**: SQL Server 2008/2013, Neo4j, MySQL, SQLite, Mongo, Elasticsearch
+**JavaScript**: TypeScript 4+, ECMAscript 4-13, Node.js, Express, Next.js, React/Redux, JSX/TSX, AngularJS, Gatsby.js, Socket.io, Passport.js, Mongoose, Vogels, Ramda/Lodash, jQuery
 
-**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
+**Testing**: Jest, Mocha, Cypress, React Testing Library, Enzyme, Sinon, Chai
 
-**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
+**Build Tools**: TSC, Webpack, Babel, NPM, Lerna/NX, Gulp, GitLab CI, Jenkins, Docker/Podman
 
-**Testing**: Mocha, Jasmine, Karma, Sinon, Chai, Phantom.js, Protractor
+**Cloud:AWS**: CloudFront, EC2, IAM, Lambda, RDS, Route 53, S3, SES, SQS, VPC
 
-**Build Tools**: Gulp, Grunt, NPM, Yeoman, Jenkins, Travis, Babel, Browserify, Webpack
+**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch
 
-**Servers**: Windows Server 2008/2012, LAMP, MEAN, NGINX, Cpanel, Plesk
-
-**Cloud:AWS**: CloudFront, Code Deploy, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
-
-**Environments**: Microsoft Visual Studio 2005-2013, Atom, Sublime, VS Code
-
-**Mobile**: Google Material, Ionic Framework, jQuery Mobile, Sencha Touch, x Bootstrap 2+, Foundation
-
-**Creative**: Adobe Photoshop and Illustrator (CS5/CS6), AutoCad R14-2014
-
-**Source Control**: Git/Github, TFS, Mercurial, SVN
-
-**Package Managers**: Npm, Bower, Nuget, Brew, Pip, Aptitude, Yum
-
-**CMS**: Joomla!, Wordpress, Magento, Orchard
-
-**Other**: Linq, AJAX, SignalR, Stripe, T4, SEO, SEM, FTP, SSH, DNS
+**Source Control**: Git, Github/Gitlab
 
 ## Professional History
 
@@ -44,13 +28,18 @@ _05/2019 - Present_
 
 **Red Hat (IBM), Remote**
 
-- Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
-- The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
-- The app extensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
-- I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
-- I am responsible for many domains including UI architecture, API development, and DevOps
+**AccountIQ - Account-Based Marketing Platform**
 
-> Open Shift, MongoDB, Node.js, React
+- Simplify presentation of millions of discrete marketing engagement data points being captured annually, highlighting trends within target accounts.
+- Activate small engagement signals to surface highly actionable insights, summarizing thousands of accounts weekly.
+- Maintain and monitor platform modifications over hundreds of monthly active user sessions, improving marketing and sales workflows and outcomes.
+
+**MO-Hub - Marketing Campaign Management**
+
+- Lead team migrating from legacy Salesforce system to streamlined, modern solution currently in development, introducing suite of microservices and new data stores slated to replace aging CRM in 2023.
+- Built applications to aid in creating consistent, trackable marketing campaigns and events for hundreds of global marketers, centralizing workflows and ensuring proper data entry / integration with CRM, Eloqua email automation, and accounting systems.
+
+> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, Express, TypeScript, GraphQL, React, Jest, Cypress, React Testing Library, Lerna, PatternFly, GitLab
 
 _08/2016 - 05/2019_
 
@@ -58,11 +47,10 @@ _08/2016 - 05/2019_
 
 **RocketLoans (Quicken Loans), Detroit, MI**
 
-- Built out a highly scalable personal loan application hosted on AWS as a full-stack engineer
-- The app is capable of automated underwriting and employs the micro-services pattern
-- I was responsible for many domains including UI architecture, API development, and DevOps
+- Extended underwriting engine to process multiple sets of eligibility criteria, resulting in improved application acceptance rates.
+- Functioned as major contributor to development of checklist mechanism synchronizing outstanding tasks between customer and operations team which, over time, facilitated simplified workflows for the operations team and improved expectations for loan clients.
 
-> AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
+> AWS, DynamoDB, Node.js, Docker, React, AngularJS, Mocha, Chai, Enzyme, Protractor, ES6, Webpack, Babel
 
 _10/2015 - 08/2016_
 
