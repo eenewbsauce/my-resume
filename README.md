@@ -1,8 +1,24 @@
 # Ryan Tracey - Full Stack JavaScript Software Engineer
 
-**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
+**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | **web:** github.com/eenewbsauce | linkedin.com/in/ryan-m-tracey
 
-I am a pragmatic full stack JavaScript engineer with over 12 years of industry experience. I focus on writing clean, testable, containerized code that scales.
+Pragmatic information technology (IT) professional with a wide range of industry experience. Focus on writing clean, testable, containerized code that scales.
+
+## Technical Skills
+
+**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON, Yaml, Markdown, C#
+
+**JavaScript**: TypeScript 4+, ECMAscript 4-13, Node.js, Express, Next.js, React/Redux, JSX/TSX, AngularJS, Gatsby.js, Socket.io, Passport.js, Mongoose, Vogels, Ramda/Lodash, jQuery
+
+**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch
+
+**Testing**: Jest, Mocha, React Testing Library, Sinon, Chai, Cypress, Enzyme
+
+**Code Quality/DX**: ESLint, Prettier, Storybook, Plop.js, GitHub Copilot
+
+**Cloud:AWS**: CloudFront, EC2, IAM, Lambda, RDS, Route 53, S3, SES, SQS, VPC
+
+**Build Tools**: TSC, Webpack, Babel, NPM, Lerna/NX, Gulp, GitLab CI, Jenkins, Docker/Podman
 
 ## Professional History
 
@@ -12,41 +28,38 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of industry e
 
 **AccountIQ - Account-Based Marketing Platform**
 
-- With millions of discrete marketing engagements being captured annually, there was a need to simplify the data and highlight trends within target accounts.
-- On a weekly basis, thousands of accounts are summarized, using small engagement signals to surface highly actionable ones.
-- With hundreds of monthly active users, the platform has greatly improved marketing and sales workflows and outcomes.
+- Simplify presentation of millions of discrete marketing engagement data points being captured annually, highlighting trends within target accounts.
+- Activate small engagement signals to surface highly actionable insights, summarizing thousands of accounts weekly.
+- Maintain and monitor platform modifications over hundreds of monthly active user sessions, improving marketing and sales workflows and outcomes.
 
 **MO-Hub - Marketing Campaign Management**
 
-- Having hundreds of marketers across the globe, creating consistent, trackable marketing campaigns and events is a sizable problem.
-- MO-Hub centralizes these workflows by ensuring proper data entry as well as integration with Salesforce CRM, Eloqua email automation, and accounting systems.
-- A migration from a heavily customized legacy Salesforce instance to a streamlined modern instance, requires our team to implement a new solution for campaign storage and integration.
-- The solution, code-named Nimbus, is currently in development. A suite of microservcies and new data stores will replace the aging CRM in Q2 2023.
+- Lead team migrating from legacy Salesforce system to streamlined, modern solution currently in development, introducing suite of microservices and new data stores slated to replace aging CRM in 2023.
+- Built applications to aid in creating consistent, trackable marketing campaigns and events for hundreds of global marketers, centralizing workflows and ensuring proper data entry / integration with CRM, Eloqua email automation, and accounting systems.
 
-> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, TypeScript, GraphQL, React, Lerna, PatternFly, GitLab
+> OpenShift (Kubernetes), MongoDB, MySQL, Node.js, Express, TypeScript, GraphQL, React, Jest, Cypress, React Testing Library, Lerna, PatternFly, GitLab
 
 **SOFTWARE ENGINEER - PERSONAL FINANCE** (_08/2016 - 04/2019_)
 
 **Rocket Loans (Rocket Mortgage), Detroit, MI**
 
-- Lending is highly regulated industry and must be handled with utmost care. Ensuring customers meet all eligibility criteria before a loan is closed is a challenging problem to solve.
-- A checklist mechanism, to synchronize the outstanding tasks between the customer and the operations team was created. I played a major role in delivering this project.
-- Over time, this solution led to simplified workflows for the operations team and improved expectations for loan clients.
+- Extended underwriting engine to process multiple sets of eligibility criteria, resulting in improved application acceptance rates.
+- Functioned as major contributor to development of checklist mechanism synchronizing outstanding tasks between customer and operations team which, over time, facilitated simplified workflows for the operations team and improved expectations for loan clients.
 
-> AWS, DynamoDB, Node.js, Docker, React, Angular.js, ES6, Webpack, Babel
+> AWS, DynamoDB, Node.js, Docker, React, AngularJS, Mocha, Chai, Enzyme, Protractor, ES6, Webpack, Babel
 
 **SOFTWARE ENGINEER - HUMAN RESOURCES** (_10/2015 - 08/2016_)
 
 **JustSift (Rocket Mortgage), Detroit, MI**
 
-- Built out a highly scalable SaaS-based employee directory application called Sift
-- Sift consists of a mobile-ready Angular JS front-end which is served via CloudFront CDN (AWS)
-- The API is OAuth2 authenticated, featuring a full-text search implemented in Elasticsearch, built on Node.js/Express and is multi-tenant ready at its core
-- The Angular JS app is built using cutting edge tools like Browserify, Gulp and Babel
-- The entire app (front and back end) is written modularly using ES6
-- Modularity was achieved using NPM modules and sophisticated custom tools that I wrote to implement versioning across the 8 Github repos that compose Sift
+- Built out highly scalable Software-as-a-Service (SaaS) based employee directory application (app) called Sift, consisting of mobile-ready AngularJS front-end served via CloudFront CDN on AWS.
 
-> AWS, Elasticsearch, Node.js, Angular.js, Stormpath/OAuth2, ES6, Browserify, Babel
+  - Application programming interface (API) is OAuth2 authenticated, featuring full-text search implemented in Elasticsearch, built on Node.js/Express and multi-tenant ready at core.
+  - AngularJS app is built using cutting edge tools, including Browserify, Gulp, and Babel.
+  - Entire app, front and back end, was written modularly using ES6.
+  - Modularity was achieved using NPM modules and sophisticated custom tools written to implement versioning across 8 Github repositories that composed Sift.
+
+> AWS, Elasticsearch, Node.js, AngularJS, Stormpath/OAuth2, ES6, Browserify, Babel
 
 **LEAD SOFTWARE ENGINEER – SOCIAL NETWORKING** (_9/2014 – 10/2015_)
 
@@ -56,29 +69,9 @@ I am a pragmatic full stack JavaScript engineer with over 12 years of industry e
 
 **Amrock (Rocket Mortgage), Detroit, MI**
 
-## Technical Skills
-
-**Languages**: JavaScript, HTML5, CSS3, Sass/Less, JSON, Yaml, Markdown, C#
-
-**JavaScript**: TypeScript 4+, ECMAscript 4-13, Node.js, Express, Next.js, React/Redux, Angular 1-4, Gatsby.js, Socket.io, Passport.js, Vogels, Mongoose, jQuery, Ramda/Lodash
-
-**Databases**: DynamoDB, MongoDB, MySQL, Neo4j, Elasticsearch
-
-**Testing**: Jest, Mocha, Sinon, Chai, Cypress
-
-**Code Quality/DX**: ESLint, Prettier, Storybook, Plop.js, GitHub Copilot
-
-**Cloud:AWS**: CloudFront, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS, VPC
-
-**Build Tools**: TSC, Webpack, Babel, NPM, Lerna/NX, Gulp, GitLab CI, Jenkins, Docker/Podman
-
 | Education                                          | Certifications                     |
 | -------------------------------------------------- | ---------------------------------- |
 | _Fall 2003 - Summer 2007_                          | _12/2019 - 12/2022_                |
 | Honours Bachelor of Applied Science                | AWS: Certified Solutions Architect |
 | University of Windsor, Windsor, ON                 |
 | Concentration: Electrical and Computer Engineering |
-
-## Hobbies
-
-Gaming, kayaking, fishing
