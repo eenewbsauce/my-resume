@@ -1,8 +1,40 @@
 # Ryan Tracey - Full Stack JavaScript Software Engineer
 
-**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce
+**tel:** 519-818-3567 | **email:** jobs.ryan.tracey@gmail.com | github.com/eenewbsauce | linkedin.com/in/ryan-m-tracey
 
 > I am a pragmatic full stack JavaScript engineer with a focus on application scaling. I embrace RESTful design and functional programming paradigms.
+
+## Technical Skills
+
+**Frameworks**: .NET 3.5 - 4.5, ASP.NET MVC 3-5, ADO.NET, EF, CSLA
+
+**Databases**: SQL Server 2008/2013, Neo4j, MySQL, SQLite, Mongo, Elasticsearch
+
+**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
+
+**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
+
+**Testing**: Mocha, Jasmine, Karma, Sinon, Chai, Phantom.js, Protractor
+
+**Build Tools**: Gulp, Grunt, NPM, Yeoman, Jenkins, Travis, Babel, Browserify, Webpack
+
+**Servers**: Windows Server 2008/2012, LAMP, MEAN, NGINX, Cpanel, Plesk
+
+**Cloud:AWS**: CloudFront, Code Deploy, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
+
+**Environments**: Microsoft Visual Studio 2005-2013, Atom, Sublime, VS Code
+
+**Mobile**: Google Material, Ionic Framework, jQuery Mobile, Sencha Touch, x Bootstrap 2+, Foundation
+
+**Creative**: Adobe Photoshop and Illustrator (CS5/CS6), AutoCad R14-2014
+
+**Source Control**: Git/Github, TFS, Mercurial, SVN
+
+**Package Managers**: Npm, Bower, Nuget, Brew, Pip, Aptitude, Yum
+
+**CMS**: Joomla!, Wordpress, Magento, Orchard
+
+**Other**: Linq, AJAX, SignalR, Stripe, T4, SEO, SEM, FTP, SSH, DNS
 
 ## Professional History
 
@@ -14,7 +46,7 @@ _05/2019 - Present_
 
 - Currently working as a full stack engineer on an account-based marketing platform deployed on Open Shift
 - The UI is built with an emphasis on component driven development and is heavily unit and end to end tested
-- The app entensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
+- The app extensively uses MongoDB aggregations and queries, MySQL stored procedures, and RPC
 - I have created repeatable processes for scaffolding API endpoints, middleware, components, pages, and unit tests
 - I am responsible for many domains including UI architecture, API development, and DevOps
 
@@ -138,38 +170,6 @@ _2007 - 2008_
 - Created designs for capital project implementations and processing lines
 - Configured and maintained a drawing archive intranet application for easy access to plant drawings
 - Orchestrated the writing of standard operating procedures (SOPs) for the plant
-
-## Technical Skills
-
-**Frameworks**: .NET 3.5 - 4.5, ASP.NET MVC 3-5, ADO.NET, EF, CSLA
-
-**Databases**: SQL Server 2008/2013, Neo4j, MySQL, SQLite, Mongo, Elasticsearch
-
-**Languages**: C# .NET, T-SQL, JavaScript, PHP 5, HTML 5, CSS 3, Sass/Compass/Less, JSON, XML, Assembly
-
-**JavaScript**: ECMAscript 4-6, Node.js, Express, Socket.io, Passport.js, Waterline.js, Vogels, jQuery, Angular 1-4, React/Redux, Angular-Material, Knockout.js, Backbone.js, Ramda/Underscore/Lodash
-
-**Testing**: Mocha, Jasmine, Karma, Sinon, Chai, Phantom.js, Protractor
-
-**Build Tools**: Gulp, Grunt, NPM, Yeoman, Jenkins, Travis, Babel, Browserify, Webpack
-
-**Servers**: Windows Server 2008/2012, LAMP, MEAN, NGINX, Cpanel, Plesk
-
-**Cloud:AWS**: CloudFront, Code Deploy, EC2, IAM, Lamda, RDS, Route 53, S3, SES, SQS
-
-**Environments**: Microsoft Visual Studio 2005-2013, Atom, Sublime, VS Code
-
-**Mobile**: Google Material, Ionic Framework, jQuery Mobile, Sencha Touch, x Bootstrap 2+, Foundation
-
-**Creative**: Adobe Photoshop and Illustrator (CS5/CS6), AutoCad R14-2014
-
-**Source Control**: Git/Github, TFS, Mercurial, SVN
-
-**Package Managers**: Npm, Bower, Nuget, Brew, Pip, Aptitude, Yum
-
-**CMS**: Joomla!, Wordpress, Magento, Orchard
-
-**Other**: Linq, AJAX, SignalR, Stripe, T4, SEO, SEM, FTP, SSH, DNS
 
 ## Education
 
