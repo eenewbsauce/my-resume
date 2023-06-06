@@ -22,7 +22,7 @@
 
 ## Professional History
 
-_05/2019 - Present_
+_05/2019 - 05/2023_
 
 **SOFTWARE ENGINEER - MARKETING**
 
